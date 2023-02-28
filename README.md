@@ -5,4 +5,6 @@ The Uncoupling class, see `UncouplingClass.ck`, can be used for a variety of sam
 
 Arguably more sonically interesting demos of this code can be found [here](https://youtu.be/_Y4DkZmrcEQ) and [here](https://succulentkeeper.bandcamp.com/track/succulent-keeper).  
 
+Contrary to the big comment, I didn't end up developing this any further, but I still use it every now and again. It's quite fun to just throw random samples in and see what you get. 
+
 [^1]: Please forgive the poorly named variables and bad "jazzschool" humour, this is very old code and I was young and dumb lol.   
